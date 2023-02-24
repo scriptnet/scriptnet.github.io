@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f84b814.css",
+    "main.js": "/static/js/main.22014893.js",
+    "static/js/787.2bba8254.chunk.js": "/static/js/787.2bba8254.chunk.js",
+    "static/media/assisv1.png": "/static/media/assisv1.b3969ee2a3503d368df6.png",
+    "index.html": "/index.html",
+    "main.5f84b814.css.map": "/static/css/main.5f84b814.css.map",
+    "main.22014893.js.map": "/static/js/main.22014893.js.map",
+    "787.2bba8254.chunk.js.map": "/static/js/787.2bba8254.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f84b814.css",
+    "static/js/main.22014893.js"
+  ]
+}
